@@ -17,9 +17,9 @@ Categorizing classification errors is a research project that aims to better und
 still in progress, will be available soon ;)
 
 ## Blog post
-Click [here](./blog/Blog.md) to read our blog post.
+will be uploaded soon..
 
 ## Presentation
-Click [here](./presentations) to view our presentations we did until now for this research project.
+will be uploaded soon..
 
 
