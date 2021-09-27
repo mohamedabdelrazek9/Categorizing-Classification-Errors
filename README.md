@@ -5,8 +5,8 @@ Categorizing classification errors is a research project that aims to better und
 
 ## Team members
 - Mohamed Khalifa 
-- Hatim Elagib 
-- Mohamed Abdelrazek  
+- <a href="https://www.linkedin.com/in/hatim-elagib-93359a1a5/"> Hatim Elagib</a>
+- <a href="https://www.linkedin.com/in/mohamed-abdelrazek-bb211a199/">Mohamed Abdelrazek</a>
 
 ## Supervisors
 <a href="https://ai.ovgu.de/">AI Lab, Otto von Guericke University Magdeburg</a>
