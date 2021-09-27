@@ -9,8 +9,9 @@ Categorizing classification errors is a research project that aims to better und
 - Mohamed Abdelrazek  
 
 ## Supervisors
-- Prof. Dr-Ing. Sebastian Stober  
-- M.Sc. Andreas Krug
+<a href="https://ai.ovgu.de/">AI Lab, Otto von Guericke University Magdeburg</a>
+- <a href="https://ai.ovgu.de/Staff/Stober.html">Prof. Dr-Ing. Sebastian Stober</a>
+- <a href="https://ai.ovgu.de/Staff/Krug.html">M.Sc. Andreas Krug</a>
 
 
 ## Source code 
