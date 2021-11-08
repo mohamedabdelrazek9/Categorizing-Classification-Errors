@@ -2,6 +2,11 @@
 
 Categorizing classification errors is a research project that aims to better understand why images trained using an artifial neural network classifier are missclassified. This problem is approached by categorizing the missclassified images into sub-groups depending on their error types.
 
+<div align="center">
+    <img src="blog/Diagram_2_CCE.png" alt="test" width="660" height="480">
+</div>
+
+
 
 ## Team members
 - Mohamed Khalifa 
@@ -15,12 +20,12 @@ Categorizing classification errors is a research project that aims to better und
 
 
 ## Source code 
-still in progress, will be available soon ;)
+Click [here](./code) to view our code.
 
 ## Blog post
-will be uploaded soon..
+Click [here](./blog/Blog.md) to read our blog post.
 
 ## Presentation
-will be uploaded soon..
+Click [here](./presentations) to view our presentations we did until now for this research project.
 
 
